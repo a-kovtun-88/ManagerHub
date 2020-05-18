@@ -1,2 +1,2 @@
 # ManagerHub
-Calculate buildings in python
+Calculate modular buildings in python
